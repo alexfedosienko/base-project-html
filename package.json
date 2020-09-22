@@ -1,0 +1,22 @@
+{
+  "name": "base-project-html",
+  "version": "1.0.0",
+  "description": "Базовый шаблон для верстки",
+  "main": "src/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexfedosienko/base-project-html.git"
+  },
+  "author": "Alexander Fedosienko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexfedosienko/base-project-html/issues"
+  },
+  "homepage": "https://github.com/alexfedosienko/base-project-html#readme",
+  "devDependencies": {
+    "fs-extra": "^9.0.1"
+  }
+}

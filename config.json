@@ -1,0 +1,35 @@
+{
+  "dirs": {
+    "src": "./src/",
+    "build": "./build/",
+    "blocks": "./src/blocks/"
+  },
+  "blocks": [
+    "accordion",
+    "alert",
+    "breadcrumbs",
+    "btn",
+    "form-input",
+    "form-input-checkbox",
+    "form-input-file",
+    "form-input-radio",
+    "form-select",
+    "form-textarea",
+    "modal",
+    "navbar",
+    "page",
+    "page-footer",
+    "page-header",
+    "pagination",
+    "table",
+    "tabs",
+    "to-top"
+  ],
+  "addJsBefore": [],
+  "addJsAfter": [],
+  "addCSSBefore": [
+    "./src/scss/grid.scss",
+    "./src/scss/typo.scss"
+  ],
+  "addCSSAfter": []
+}

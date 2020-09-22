@@ -1,0 +1,9 @@
+build/*
+!build/readme.md
+node_modules/
+package-lock.json
+.vscode/
+.DS_Store
+*.sublime-*
+Thumbs.db
+__MACOSX
